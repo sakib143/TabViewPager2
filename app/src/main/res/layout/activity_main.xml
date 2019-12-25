@@ -19,6 +19,7 @@
         app:tabMode="scrollable"
         />
 
+
 <!--    app:tabMode="fixed" for simple scrollview tab like whatsapp-->
 
     <androidx.viewpager2.widget.ViewPager2
